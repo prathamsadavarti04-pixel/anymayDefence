@@ -1,8 +1,11 @@
-# Repository tree after website build
+# Updated repository tree
 
-Expected repository structure on the implementation branch after media renaming, static page creation, and documentation updates.
+This is the implementation tree as committed on this branch. The source-audit workflow creates source-review/ extraction text and timestamped contact sheets when run.
 
 ```text
+├── .github/
+│   └── workflows/
+│       └── source-audit.yml
 ├── about/
 │   └── index.html
 ├── assets/

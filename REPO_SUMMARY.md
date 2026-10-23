@@ -1,76 +1,114 @@
 # REPO_SUMMARY — Anmay Defence
 
-## Scope and source confidence
+## Source coverage and confidence
 
-This summary is grounded in the repository branch `moved_everything_assetsINTO_assetsFolder` at the start of this change. The readable source page was `index.html`; repository metadata and `.gitattributes` were also inspected. Media files were inventoried, and representative smaller images were viewed. Large binary Office documents and the ten MOV inspiration clips were not accessible as decoded content through the available GitHub text interface in this run. Treat this as a source-backed inventory, not a final technical or legal approval of all content.
+This summary uses the original root page and README, repository paths, all three readable DOCX scripts/storyboards, representative product and assembly imagery, .gitattributes, and the original media inventory. The large Gen 1/Gen 2 and PRAHAR NETRA PPTX catalogues still need a full slide-text and specification review. A source-audit workflow is included to extract slide text and notes and create timestamped FFmpeg contact sheets for all ten inspiration clips.
 
-## Company information
+## Company profile
 
-| Item | What the repository supports |
+| Field | Source-backed information |
 |---|---|
 | Public brand | **Anmay Defence** |
-| Legal registered name | **Not identified** in the readable source page or root README. Confirm with the company before legal / footer publication. |
-| Relationship stated in current page | Existing footer says “An initiative by Robonut.” The role of Robonut and the precise legal entity should be confirmed. |
-| Public tagline | Existing source footer: “Securing the skies. Defending the future.” |
-| Main positioning | Existing title / meta description positions Anmay Defence around AI-powered counter-drone defence, real-time airspace awareness and rapid response. |
-| Core workflow stated in current page | Detection, tracking, threat prioritisation and response support. |
-| Use cases in existing page | Defence installations, airports, borders, critical infrastructure, industrial facilities and public events. These are presented as use-case categories, not proof that every deployment has occurred. |
-| Customer / deployment references | The project brief supplied by the repository owner says the company has worked with private companies, Indian Military and other defence clients. No named customer organisations or approved logos were identified in the readable source file inventory. |
-| Public contact details | No verified email address, phone number or enquiry endpoint was found in the readable source page. |
+| Registered legal name | Not established in the text extracted so far; confirm before legal publication. |
+| Relationship | Existing page footer says “An initiative by Robonut”; one video script refers to “Robonut Project.” Confirm the exact legal/brand relationship. |
+| Positioning line | “Engineering the Future of Autonomous Airspace Security.” The legacy footer also uses “Securing the skies. Defending the future.” |
+| Main product story | Indigenous Counter-UAS platform family, described as modular and designed to evolve with the threat. |
+| Workflow | Detect, identify, track, assess and support the configured response workflow. |
+| Intended audiences in the product story | Defence organisations, technology partners, system integrators, R&D partners, procurement/evaluation teams and private-sector operators. These are audience categories, not proof of specific customer deployments. |
+| Public contact endpoint | No verified public email, phone or online enquiry endpoint is established. The Contact route currently creates a local text draft only. |
 
-## Product and technology vocabulary found
+## Product information extracted from DOCX sources
 
-- **STRIKE** — described by the current page as the flagship AI-powered counter-drone system.
-- **STRIKE Gen 1 and Gen 2** — a product catalogue with both generations is present in the asset library.
-- **STRIKE M** — separate imagery and a “testing trail” video collection indicate a related mounted platform/configuration.
-- **PRAHAR NETRA** — a separate product catalogue is present.
-- **Operator interface / RPI** — desktop screenshot, remote-control references and setup images are present.
-- **Mechanical / product models** — a Tinkercad OBJ model and material files exist in the “Next_gen” folders.
-- **System concepts found in the original page** — real-time awareness, tracking, threat prioritisation, modular deployment language and response support.
+### STRIKE platform family
 
-The numeric performance specifications, sensor-model list, effective range, accuracy, latency, endurance, and product configuration matrix were not present in the readable HTML. Do not infer these values from image/video filenames or renders.
+The STRIKE storyboard expands S.T.R.I.K.E. as **Smart Targeting, Reconnaissance, Intelligent Kill Engagement**. It positions STRIKE as a modular Counter-UAS platform family with generational evolution and mission-specific configurations.
 
-## Initial repository file-by-file inventory
+The supplied storyboard includes editorial guardrails:
+- Do not claim existing defence systems cannot stop swarms or that every drone cannot be jammed/spoofed.
+- Do not present future swarm-defeat, autonomous-network or directed-energy ideas as current Gen 1 / Gen 2 features.
+- Do not present shipboard deployment as already qualified; say “designed for adaptation” only if approved.
+- Keep pricing and lead time out of the core product narrative.
+- Tie numeric performance claims to the latest product catalogue and approved test conditions.
 
-| Original path | Purpose / interpretation |
+### STRIKE Gen 1 — foundation platform
+
+The material describes a foundation platform story built around electro-optical / computer-vision tracking, auto/manual operating concepts and modular mission packages.
+
+| Attribute | Value stated in the supplied narrative | Release note |
+|---|---|---|
+| Detection range | 700 m | Confirm product revision, test conditions and approved catalogue. |
+| Horizontal movement | 360° continuous azimuth | Confirm the delivered movement envelope. |
+| Vertical elevation | Up to 75° in the first script | Confirm the final hardware and movement envelope. |
+| Operating concept | Auto / manual | Confirm current modes and operational constraints. |
+| Deployment target | Under 10 minutes | Treat as a narrative target until the procedure is approved. |
+| Architecture | One-layer defence | Use the approved definition. |
+| Mission packages | STRIKE RF, STRIKE OF, STRIKE EW, STRIKE SP and STRIKE M | Generation compatibility and availability depend on configuration. |
+
+Package terms in the material: **RF** — RF early warning; **OF** — optical fibre; **EW** — electronic warfare; **SP** — solar power; **M** — mounted / multi-payload variant. Confirm exact scope against approved product documents.
+
+The first video script also describes computer-vision tracking, day/night-ready architecture and manual/automatic operating concepts. These are narrative statements and require current hardware/configuration confirmation before numeric claims are published. Website copy avoids describing weapon-operating procedures.
+
+### STRIKE Gen 2 — expanded sensing and layered architecture
+
+The supplied STRIKE storyboard positions Gen 2 as an expanded sensing / processing stack and a two-layer system concept. The values and modules below require catalogue-level confirmation.
+
+| Attribute | Value/item stated | Release note |
+|---|---|---|
+| Optical system | Day/night PTZ, 30× optical zoom | Confirm camera model and environmental rating. |
+| Sensor integration | LiDAR | Confirm delivered configuration. |
+| Edge processing | NVIDIA Edge AI | Confirm compute module and software revision. |
+| Movement envelope | 360° azimuth / 80° elevation | Confirm movement and installation limits. |
+| Video / communication | 2 km wireless video / 5 km fibre | Confirm test conditions, link performance and system version. |
+| Power | 24 VDC | Confirm power-input requirements. |
+| Deployment target | Under 10 minutes | Confirm deployment procedure. |
+| Layered defence | Kinetic and electronic-warfare layers described | Clarify actual implementation and authorised use. |
+| Mission ecosystem | Radar, GNSS countermeasure, solar, multi-weapon | Confirm compatibility and availability. |
+
+### Roadmap / future concepts
+
+The materials mention future night/thermal sensing, expanded training data, mechanical protection, additional payload concepts, longer communication links and soft-kill/jamming. The storyboard expressly asks that swarm-defeat, autonomous-network and directed-energy concepts be labelled **FUTURE / R&D**, not presented as current Gen 1 / Gen 2 capabilities. The website keeps them separate.
+
+### Other families
+
+- **STRIKE M:** represented in product imagery and a separate testing-footage collection. Integration and configuration require confirmation.
+- **PRAHAR NETRA:** a separate catalogue is present; detailed public capabilities need review against that current catalogue.
+
+## Original source-file inventory
+
+| Original path | Purpose |
 |---|---|
-| `README.md` | Git LFS cloning and media checkout instructions. |
-| `.gitattributes` | Git LFS filters for four specific media paths; updated in the cleanup to follow those tracked media after renaming. |
-| `index.html` | Existing single-page marketing site; includes shared color/type tokens, responsive layout, the rotating radar sweep, track blips, interaction scripts, STRIKE messaging, use cases, and footer. |
-| `assets/Drone detection Videos and Photos/ANMAY_Drone_Defence_Video_Script.docx` | Video script document; binary document content still needs a local review. |
-| `assets/Drone detection Videos and Photos/Shortlisted Photo Video/Changes .pptx` | Shortlisted-media / change deck, per file name; binary deck content still needs a local review. |
-| `assets/StrikeGenOne_videos/STRIKE GEN 1 shots/STRIKE Product Catalogue Gen1 and 2.pptx` | Product catalogue for STRIKE Gen 1 and Gen 2; detailed specifications should be extracted and verified from the local deck. |
-| `assets/StrikeGenOne_videos/STRIKE GEN 1 shots/STRIKE_Video_Creation_Storyboard_Anmay_Defence.docx` | STRIKE video storyboard; local text review still required. |
-| `assets/StrikeGenOne_videos/StrikeGenVideos/New Video Script.docx` | Additional video script; local text review still required. |
-| `assets/StrikeGenOne_videos/StrikeGenVideos/PRAHAR NETRA Product Catalogue.pptx` | Separate PRAHAR NETRA catalogue; local review required before writing a detailed product page. |
-| `assets/Drone detection Videos and Photos/Shortlisted Photo Video/Next_gen_design_1_zipfile/tinker.obj` | Large Tinkercad OBJ geometry file. |
-| `assets/Drone detection Videos and Photos/Shortlisted Photo Video/Next_gen_design_1_zipfile/obj.mtl` | Tinkercad material definitions. |
-| `assets/Drone detection Videos and Photos/Shortlisted Photo Video/Next_gen_part_two_zipfileExtration/tinkerPart2.obj` | Additional / second-part Tinkercad OBJ geometry. |
-| `assets/Drone detection Videos and Photos/Shortlisted Photo Video/Next_gen_part_two_zipfileExtration/objPart2.mlt` | Additional material definitions; file extension is `.mlt` in the source. |
-| `assets/**/img/`, `assets/**/Photos/`, `assets/**/Drone Shot/` | Photo references, drone/platform footage and operator-interface assets, renamed and mapped in `ASSET_MAP.md`. |
-| `inspiration_video/` | Ten numbered MOV segments of the owner-provided design reference. Retained unchanged in original serial order. |
+| README.md | Git LFS instructions and repository notes. |
+| .gitattributes | LFS patterns; updated for the four renamed paths that originally used LFS. |
+| index.html | Previous one-page site; source of the radar identity, palette and typography direction. |
+| assets/Drone detection Videos and Photos/ANMAY_Drone_Defence_Video_Script.docx | Emerging-threat story, company intro, current-system concept and future roadmap. |
+| assets/Drone detection Videos and Photos/Shortlisted Photo Video/Changes .pptx | Shortlisted-media/change deck; detailed slide extraction to review from generated source text. |
+| assets/StrikeGenOne_videos/STRIKE GEN 1 shots/STRIKE_Video_Creation_Storyboard_Anmay_Defence.docx | Gen 1/Gen 2 product narrative, reference values, mission options and public-claim guardrails. |
+| assets/StrikeGenOne_videos/StrikeGenVideos/New Video Script.docx | Launch-film story and generational evolution. |
+| assets/StrikeGenOne_videos/STRIKE GEN 1 shots/STRIKE Product Catalogue Gen1 and 2.pptx | Primary Gen 1 / Gen 2 catalogue; source-audit output should be reviewed to validate current specifications. |
+| assets/StrikeGenOne_videos/StrikeGenVideos/PRAHAR NETRA Product Catalogue.pptx | Separate catalogue; review its extraction before writing detailed capability claims. |
+| assets/**/img/, assets/**/Photos/, assets/**/Drone Shot/ | Product photos, models, drone/platform footage, operator UI and engineering/installation references; renamed and mapped in ASSET_MAP.md. |
+| inspiration_video/ | Ten serial MOV segments of the owner-provided reference site, retained unchanged. |
 
-## Structure after implementation
+## Website architecture and motion
 
-- `site.js` renders the nine static routes and their accessible navigation / interactions.
-- `site.css` contains the shared typography, palette, responsive layout and reveal styles.
-- `site-effects.css` contains radar/product-placeholder presentation details.
-- The home route includes a Canvas tracking simulation inspired by the existing blue sweep and track-blip identity.
-- `products/`, `about/`, `technology/`, `solutions/`, `clients/`, `projects/`, `faq/` and `contact/` each contain `index.html`.
-- Media has been consolidated into descriptive `assets/images/<category>/` and `assets/videos/<category>/` paths. Non-media source documents and OBJ/MTL models remain at their source paths to avoid breaking any model/material references or losing originals.
+- Static routes: Home, Products, About, Technology, Solutions, Clients, Projects, FAQ and Contact.
+- Shared runtime: site.js; global styling and animation: site.css; supporting effects: site-effects.css.
+- Home: Canvas radar sweep, real product trial-footage slot, sticky scroll-step visual, Gen 1/Gen 2 cards, mission-package interaction and separate roadmap.
+- Product route: Gen 1 / Gen 2 selectors, reference-spec block, side-by-side / single-generation comparison, mission packages, STRIKE M and PRAHAR NETRA.
+- Media cleanup: 223 images/videos moved to descriptive camelCase paths; ASSET_MAP.md maps every old media path. The ten inspiration clips retain their original filenames and order.
+- Source-audit workflow: sparse-checkout Office files and reference videos, extract slide text, sample video frames with FFmpeg and create timestamped contact sheets.
 
-## Design tokens retained from the existing page
+## Visual direction from existing materials
 
-- Graphite: `#232121`
-- Electric blue: `#1e5af9`
-- Dark hero: `#101216`
-- White / neutral greys for content surfaces and dividers
-- Typography: Inter Tight display, Inter body, JetBrains Mono labels
-- Motion signature: rotating blue radar sweep, target/blip markers, restrained reveal transitions and hover micro-interactions.
+- Graphite / near-black for the hero and system visuals; white and pale-neutral content surfaces.
+- Electric-blue tracking accent (#1e5af9) and restrained scan-line / glow effects.
+- Inter Tight headings, Inter body, JetBrains Mono technical labels.
+- Long-form editorial scroll: chapter labels, visual handoffs, sticky explanatory panel, progressive reveals and interactive generation comparison.
+- Actual product and assembly photographs instead of generic stock imagery; future roadmap concepts remain clearly separated from current product descriptions.
 
-## Important review items before production
+## Release gates
 
-1. Review all three DOCX documents and both PPTX catalogues locally, then replace product-page qualification text with only approved data.
-2. Reconfirm the reference site's exact colors, typography, spacing and scroll animation against the ten MOV clips. The current execution environment exposed their file inventory but not decodable clip bytes, so frame-by-frame inspection could not be completed.
-3. Confirm registered legal name, Robonut relationship, public contact channels, approved client references and any export/security/publication restrictions.
-4. Connect the contact draft helper to an approved secure form endpoint if online submissions are required. No user-entered contact information is transmitted by the current static demo.
+1. Review extracted PPTX text against the current approved catalogue and product revision; resolve every public numeric claim.
+2. Inspect FFmpeg contact sheets for the reference palette, typography, section timing and scroll-animation progression; tune CSS to match actual observations.
+3. Confirm registered legal name, the Robonut relationship, approved customer references, contact details and publication restrictions.
+4. Connect an approved secure submission endpoint only if live lead capture is wanted. The contact draft helper currently transmits nothing.
