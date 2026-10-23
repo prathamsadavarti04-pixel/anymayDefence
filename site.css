@@ -81,3 +81,5 @@ button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,te
 
 .hero-hardware-video{object-fit:cover;object-position:center 40%;background:#d8d9df}
 @media(prefers-reduced-motion:reduce){.hero-hardware-video{display:none}}
+
+.product-inline-note{margin:-12px 0 22px;color:#8d98ac;font:8px/1.8 var(--m);letter-spacing:.015em}
