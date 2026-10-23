@@ -1,0 +1,260 @@
+ANMAY DEFENCE — OLD REPO TREE (before cleanup, commit faef79b)
+Generated: 2026-10-22
+
+.
+./.gitattributes
+./OLD_TREE.txt
+./README.md
+./assets
+./assets/Drone detection Videos and Photos
+./assets/Drone detection Videos and Photos/ANMAY_Drone_Defence_Video_Script.docx
+./assets/Drone detection Videos and Photos/Shortlisted Photo Video
+./assets/Drone detection Videos and Photos/Shortlisted Photo Video/Anmay STRIKE Trial Footages.mp4
+./assets/Drone detection Videos and Photos/Shortlisted Photo Video/Changes .pptx
+./assets/Drone detection Videos and Photos/Shortlisted Photo Video/Next_gen_design_1_zipfile
+./assets/Drone detection Videos and Photos/Shortlisted Photo Video/Next_gen_design_1_zipfile/obj.mtl
+./assets/Drone detection Videos and Photos/Shortlisted Photo Video/Next_gen_design_1_zipfile/tinker.obj
+./assets/Drone detection Videos and Photos/Shortlisted Photo Video/Next_gen_part_two_zipfileExtration
+./assets/Drone detection Videos and Photos/Shortlisted Photo Video/Next_gen_part_two_zipfileExtration/objPart2.mlt
+./assets/Drone detection Videos and Photos/Shortlisted Photo Video/Next_gen_part_two_zipfileExtration/tinkerPart2.obj
+./assets/Drone detection Videos and Photos/Shortlisted Photo Video/Robonut Project Logo with Name .png
+./assets/Drone detection Videos and Photos/Shortlisted Photo Video/Robonut Project Logo.jpg
+./assets/Drone detection Videos and Photos/Shortlisted Photo Video/VID-20250729-WA0008.mp4
+./assets/Drone detection Videos and Photos/Shortlisted Photo Video/VID-20260110-WA0005.mp4
+./assets/Drone detection Videos and Photos/Shortlisted Photo Video/Video1.mp4
+./assets/Drone detection Videos and Photos/Shortlisted Photo Video/Video2.mp4
+./assets/Drone detection Videos and Photos/Shortlisted Photo Video/Video3.mp4
+./assets/Drone detection Videos and Photos/Shortlisted Photo Video/Video4.mp4
+./assets/Drone detection Videos and Photos/Shortlisted Photo Video/Video5.mp4
+./assets/Drone detection Videos and Photos/Shortlisted Photo Video/Video6.mp4
+./assets/Drone detection Videos and Photos/Shortlisted Photo Video/Video7.mp4
+./assets/Drone detection Videos and Photos/Shortlisted Photo Video/Video8.mp4
+./assets/Drone detection Videos and Photos/Shortlisted Photo Video/img
+./assets/Drone detection Videos and Photos/Shortlisted Photo Video/img/Anmay Defence (WIP).png
+./assets/Drone detection Videos and Photos/Shortlisted Photo Video/img/Assmebly.jpg
+./assets/Drone detection Videos and Photos/Shortlisted Photo Video/img/Gemini_Generated_Image.png
+./assets/Drone detection Videos and Photos/Shortlisted Photo Video/img/Gemini_Generated_Image_ex6x1wex6x1wex6x.png
+./assets/Drone detection Videos and Photos/Shortlisted Photo Video/img/IMG-20251002-WA0026.jpg
+./assets/Drone detection Videos and Photos/Shortlisted Photo Video/img/IMG-20251002-WA0028.jpg
+./assets/Drone detection Videos and Photos/Shortlisted Photo Video/img/IMG1.jpg
+./assets/Drone detection Videos and Photos/Shortlisted Photo Video/img/IMG2.jpg
+./assets/Drone detection Videos and Photos/Shortlisted Photo Video/img/IMG3.jpg
+./assets/Drone detection Videos and Photos/VID-20250714-WA0011.mp4
+./assets/Drone detection Videos and Photos/VID-20250714-WA0012.mp4
+./assets/Drone detection Videos and Photos/VID-20250714-WA0013.mp4
+./assets/Drone detection Videos and Photos/VID-20250714-WA0014.mp4
+./assets/Drone detection Videos and Photos/VID-20250714-WA0015.mp4
+./assets/Drone detection Videos and Photos/VID-20250714-WA0016.mp4
+./assets/Drone detection Videos and Photos/VID-20250727-WA0000.mp4
+./assets/Drone detection Videos and Photos/VID-20250727-WA0001.mp4
+./assets/Drone detection Videos and Photos/VID-20250727-WA0003.mp4
+./assets/Drone detection Videos and Photos/VID-20250727-WA0005.mp4
+./assets/Drone detection Videos and Photos/VID-20250729-WA0006.mp4
+./assets/Drone detection Videos and Photos/VID-20250729-WA0007.mp4
+./assets/Drone detection Videos and Photos/VID-20250729-WA0009.mp4
+./assets/Drone detection Videos and Photos/VID-20250729-WA0010.mp4
+./assets/Drone detection Videos and Photos/VID-20250729-WA0011.mp4
+./assets/Drone detection Videos and Photos/VID-20250729-WA0012.mp4
+./assets/Drone detection Videos and Photos/VID-20250729-WA0013.mp4
+./assets/Drone detection Videos and Photos/VID-20250730-WA0006.mp4
+./assets/Drone detection Videos and Photos/VID-20250730-WA0007.mp4
+./assets/Drone detection Videos and Photos/VID-20250801-WA0013.mp4
+./assets/Drone detection Videos and Photos/VID-20250801-WA0020.mp4
+./assets/Drone detection Videos and Photos/VID-20250802-WA0000.mp4
+./assets/Drone detection Videos and Photos/VID-20250802-WA0003.mp4
+./assets/Drone detection Videos and Photos/VID-20250802-WA0004.mp4
+./assets/Drone detection Videos and Photos/VID-20250802-WA0005.mp4
+./assets/Drone detection Videos and Photos/VID-20250803-WA0004.mp4
+./assets/Drone detection Videos and Photos/VID-20250906-WA0018.mp4
+./assets/Drone detection Videos and Photos/VID-20250906-WA0019.mp4
+./assets/Drone detection Videos and Photos/VID-20251004-WA0016.mp4
+./assets/Drone detection Videos and Photos/VID-20251004-WA0135.mp4
+./assets/Drone detection Videos and Photos/VID-20260110-WA0006.mp4
+./assets/Drone detection Videos and Photos/img
+./assets/Drone detection Videos and Photos/img/Assmebly.jpg
+./assets/Drone detection Videos and Photos/img/Gemini_Generated_Image_a5mhtga5mhtga5mh-removebg-preview.png
+./assets/Drone detection Videos and Photos/img/Gemini_Generated_Image_ncnkk8ncnkk8ncnk-removebg-preview.png
+./assets/Drone detection Videos and Photos/img/Gemini_Generated_Image_ncnkk8ncnkk8ncnk.png
+./assets/Drone detection Videos and Photos/img/IMG-20251002-WA0022.jpg
+./assets/Drone detection Videos and Photos/img/IMG-20251002-WA0027.jpg
+./assets/Drone detection Videos and Photos/img/IMG-20251002-WA0029.jpg
+./assets/Drone detection Videos and Photos/img/IMG-20251002-WA0030.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20250702_094415.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20250702_094421.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20250704_194327.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20250704_194336.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20250704_194345.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20250704_194400.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20250704_194406.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20250704_194415.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20250704_194419.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20250704_194435.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20250704_194436.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20250704_194504.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20250704_194522.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20250704_194554.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20250704_194601.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20250712_141626_Burst01.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20250712_141626_Burst02.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20250712_141626_Burst03.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20250712_141626_Burst04.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20250713_174427.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20250713_174432.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20250713_181559.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20250713_224654.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20250725_175358.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20250725_194027.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20250725_194211.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20250725_194214.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20250727_202654.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20250728_092447.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20250728_092454.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20250729_195934.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20250730_121818.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20250801_203557.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20250802_221312.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20250803_134826.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20250803_134832.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20251002_102350.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20251002_102432.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20251002_102446.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20251002_102504.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20251002_144608.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20251002_144614.jpg
+./assets/Drone detection Videos and Photos/img/IMG_20251002_144617.jpg
+./assets/Drone detection Videos and Photos/img/PROTOTYPE-W .png
+./assets/Drone detection Videos and Photos/video_20251001_180630.mp4
+./assets/StrikeGenOne_videos
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/1789709095867.jpg
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/1789709095873.jpg
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/1789709095880.jpg
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/1789709095888.jpg
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/1789709095893.jpg
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/1789709095896.jpg
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/1789709095901.jpg
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/1789709095908.jpg
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/IMG 2.jpeg
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/IMG-20260715-WA0062.jpg
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/IMG-20260715-WA0083.jpg
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/IMG-20260919-WA0001.jpg
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/IMG-20261005-WA0036.jpg
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/IMG-20261005-WA0037.jpg
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/IMG-20261005-WA0038.jpg
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/IMG-20261005-WA0039.jpg
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/IMG-20261005-WA0040.jpg
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/IMG-20261005-WA0041.jpg
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/IMG-20261005-WA0042.jpg
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/IMG-20261005-WA0043.jpg
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/IMG_20260918_112147.jpg
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/IMG_20260918_162832.jpg
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/Installation Image 1.jpeg
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/Meta AI 2.webp
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/STRIKE 2 with radar.png
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/STRIKE Product Catalogue Gen1 and 2.pptx
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/STRIKE_Video_Creation_Storyboard_Anmay_Defence.docx
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/videos
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/videos/Firing Video .mp4
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/videos/VID-20260705-WA0006.mp4
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/videos/VID-20260918-WA0012.mp4
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/videos/VID-20260918-WA0013.mp4
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/videos/VID-20260919-WA0002.mp4
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/videos/VID-20260919-WA0003.mp4
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/videos/VID-20261005-WA0035.mp4
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/videos/VID-20261005-WA0044.mp4
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/videos/VID-20261005-WA0046.mp4
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/videos/VID-20261005-WA0047.mp4
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/videos/VID-20261005-WA0048.mp4
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/videos/VID-20261005-WA0049.mp4
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/videos/VID-20261005-WA0050.mp4
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/videos/VID-20261005-WA0051.mp4
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/videos/VID-20261005-WA0053.mp4
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/videos/VID-20261005-WA0054.mp4
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/videos/VID-20261005-WA0055.mp4
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/videos/VID-20261005-WA0056.mp4
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/videos/VID-20261005-WA0057.mp4
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/videos/VID_20260917_113230.mp4
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/videos/VID_20260918_103217.mp4
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/videos/VID_20260918_111359.mp4
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/videos/VID_20260918_111428.mp4
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/videos/VID_20260918_111435.mp4
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/videos/VID_20260918_112150.mp4
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/videos/VID_20260918_162836.mp4
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/videos/dji_fly_20260918_104236_411_1789708852182_video.mp4
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/videos/dji_fly_20260918_104336_412_1789708841624_video.mp4
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/videos/dji_fly_20260918_104526_413_1789708822593_video.mp4
+./assets/StrikeGenOne_videos/STRIKE GEN 1 shots/videos/dji_fly_20260918_104626_414_1789708737204_video.mp4
+./assets/StrikeGenOne_videos/StrikeGenVideos
+./assets/StrikeGenOne_videos/StrikeGenVideos/Automation RPI Camera Footage.webm
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/VID-20260715-WA0042.mp4
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/VID-20260715-WA0043.mp4
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/VID-20260715-WA0046.mp4
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/VID-20260715-WA0047.mp4
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/VID-20260715-WA0048.mp4
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/VID-20260715-WA0049.mp4
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/images
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/images/IMG-20260705-WA0023.jpg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/images/IMG-20260705-WA0034.jpg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/images/IMG-20260715-WA0002.jpg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/images/IMG-20260715-WA0008.jpg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/images/IMG-20260715-WA0011.jpg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/images/IMG-20260715-WA0016.jpg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/images/IMG-20260715-WA0019.jpg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/images/IMG-20260715-WA0022.jpg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/images/IMG-20260715-WA0032.jpg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/images/IMG-20260715-WA0035.jpg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/images/IMG-20260715-WA0036.jpg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/images/IMG-20260715-WA0038.jpg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/images/IMG-20260715-WA0040.jpg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/images/IMG-20260715-WA0041.jpg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/images/IMG-20260715-WA0044.jpg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/images/IMG-20260715-WA0045.jpg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/images/IMG-20260715-WA0056.jpg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/images/IMG-20260715-WA0061.jpg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/images/IMG-20260715-WA0069.jpg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/images/IMG-20260715-WA0070.jpg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/images/IMG-20260715-WA0071.jpg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/images/IMG-20260715-WA0073.jpg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/images/IMG-20260715-WA0074.jpg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/images/IMG-20260715-WA0076.jpg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/images/IMG-20260715-WA0078.jpg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/images/IMG-20260715-WA0079.jpg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/images/IMG-20260715-WA0080.jpg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/images/IMG-20260715-WA0082.jpg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/images/IMG-20260715-WA0084.jpg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/images/IMG-20260715-WA0085.jpg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/images/IMG-20260715-WA0086.jpg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/images/IMG-20260715-WA0087.jpg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/images/IMG-20260715-WA0088.jpg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Drone Shot/images/IMG-20260715-WA0089.jpg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Gemini Photos
+./assets/StrikeGenOne_videos/StrikeGenVideos/Gemini Photos/Gemini_Generated_Image_shb3mzshb3mzshb3.png
+./assets/StrikeGenOne_videos/StrikeGenVideos/Gemini Photos/STRIKE Gen 2.png
+./assets/StrikeGenOne_videos/StrikeGenVideos/Gemini Photos/STRIKE M with LMG gun.png
+./assets/StrikeGenOne_videos/StrikeGenVideos/Gemini Photos/strike 2 m lmg.png
+./assets/StrikeGenOne_videos/StrikeGenVideos/New Video Script.docx
+./assets/StrikeGenOne_videos/StrikeGenVideos/Other
+./assets/StrikeGenOne_videos/StrikeGenVideos/Other/RPI Desktop screenshot.png
+./assets/StrikeGenOne_videos/StrikeGenVideos/Other/Remote Front Side Buttons .jpeg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Other/Steps to RUN code.jpeg
+./assets/StrikeGenOne_videos/StrikeGenVideos/PRAHAR NETRA Product Catalogue.pptx
+./assets/StrikeGenOne_videos/StrikeGenVideos/Photos
+./assets/StrikeGenOne_videos/StrikeGenVideos/Photos/VID-20260624-WA0054.mp4
+./assets/StrikeGenOne_videos/StrikeGenVideos/Photos/VID-20260625-WA0001.mp4
+./assets/StrikeGenOne_videos/StrikeGenVideos/Photos/VID-20260627-WA0008.mp4
+./assets/StrikeGenOne_videos/StrikeGenVideos/Photos/VID-20260702-WA0000.mp4
+./assets/StrikeGenOne_videos/StrikeGenVideos/Photos/imgs
+./assets/StrikeGenOne_videos/StrikeGenVideos/Photos/imgs/IMG 3.jpeg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Photos/imgs/IMG 4.jpeg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Photos/imgs/IMG 5.jpeg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Photos/imgs/IMG 6.jpeg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Photos/imgs/IMG1.jpeg
+./assets/StrikeGenOne_videos/StrikeGenVideos/Photos/screen-capture (14) (1).webm
+./assets/StrikeGenOne_videos/StrikeGenVideos/STRIKE M videos
+./assets/StrikeGenOne_videos/StrikeGenVideos/STRIKE M videos/STRIKE M Ver 1 Testing Trail Videos.mp4
+./assets/StrikeGenOne_videos/StrikeGenVideos/STRIKE M videos/strike M gen 1_2.mp4
+./assets/StrikeGenOne_videos/StrikeGenVideos/Truck Video Automation.mp4
+./assets/StrikeGenOne_videos/StrikeGenVideos/Truck Video with Rifle Mounting Automation.mp4
+./assets/index.html
+./index.html
