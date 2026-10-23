@@ -1,24 +1,27 @@
-How to clone this repo with large video files
-This repo uses Git LFS for large video files. You cannot use Download ZIP - you must clone with git.
+# Anmay Defence
 
-1. Install Git LFS (only once per computer)
+Anmay Defence builds STRIKE, an AI-powered counter-drone system for real-time
+airspace awareness and rapid response.
 
-Windows: git lfs is already included with Git for Windows
-Mac: brew install git-lfs
-Linux: sudo apt-get install git-lfs
-Then run:
+This repository contains the Anmay Defence website and supporting project
+assets. Video files have been removed, so Git LFS is not required.
 
-git lfs install
-2. Clone this repo
-https://github.com/prathamsadavarti04-pixel/anymayDefence/tree/copilot/move-folders-to-assets
-cd this repo
-That's it. The videos will download automatically.
+## Repository structure
 
-If you already cloned and videos are not playing:
+- [`index.html`](./index.html) - Website landing page
+- [`assets/images/`](./assets/images/) - Project images and visual references
+- [`assets/3d-models/`](./assets/3d-models/) - 3D model source files
+- [`assets/text-documents/`](./assets/text-documents/) - Scripts, storyboards,
+  catalogues, and other text-based project documents
 
-git lfs install
-git lfs pull
-or
+## Clone and preview
 
-git lfs fetch --all
-git lfs checkout
+Clone the repository with Git:
+
+```bash
+git clone https://github.com/prathamsadavarti04-pixel/anymayDefence.git
+cd anymayDefence
+```
+
+Open `index.html` in a browser to preview the website. No build step or
+additional asset-management tool is required.
