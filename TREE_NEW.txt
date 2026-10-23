@@ -1,0 +1,293 @@
+.
+├── .gitattributes
+├── ASSET_MAP.md
+├── README.md
+├── REPO_SUMMARY.md
+├── TREE_NEW.txt
+├── TREE_OLD.txt
+├── about.html
+├── assets
+│   ├── docs
+│   │   ├── anmay-drone-defence-video-script.docx
+│   │   ├── prahar-netra-product-catalogue.pptx
+│   │   ├── strike-launch-film-script.docx
+│   │   ├── strike-product-catalogue-gen1-gen2.pptx
+│   │   ├── strike-video-storyboard.docx
+│   │   └── video-edit-change-requests.pptx
+│   ├── images
+│   │   ├── aerial-drone-shots
+│   │   │   ├── aerial-truck-mounted-strike-gen1-01.jpg
+│   │   │   ├── aerial-truck-mounted-strike-gen1-02.jpg
+│   │   │   ├── aerial-truck-mounted-strike-gen1-03.jpg
+│   │   │   ├── aerial-truck-mounted-strike-gen1-04.jpg
+│   │   │   ├── aerial-truck-mounted-strike-gen1-05.jpg
+│   │   │   ├── aerial-truck-mounted-strike-gen1-06.jpg
+│   │   │   ├── aerial-truck-mounted-strike-gen1-07.jpg
+│   │   │   └── aerial-truck-mounted-strike-gen1-08.jpg
+│   │   ├── branding
+│   │   │   ├── anmay-trishul-emblem-wip-01.png
+│   │   │   ├── robonut-logo-hexagon-01.png
+│   │   │   └── robonut-logo-hexagon-02.jpg
+│   │   ├── build-process
+│   │   │   ├── metal-frame-fabrication-01.jpg
+│   │   │   ├── motor-and-frame-fabrication-01.jpg
+│   │   │   ├── motor-and-frame-fabrication-02.jpg
+│   │   │   ├── part-closeup-01.jpg
+│   │   │   ├── part-closeup-02.jpg
+│   │   │   ├── raspberry-pi-case-01.jpg
+│   │   │   ├── raspberry-pi-case-02.jpg
+│   │   │   ├── raspberry-pi-case-03.jpg
+│   │   │   ├── raspberry-pi-case-04.jpg
+│   │   │   ├── rifle-servo-mount-fitting-01.jpg
+│   │   │   ├── servo-bracket-fitting-01.jpg
+│   │   │   ├── servo-bracket-fitting-02.jpg
+│   │   │   ├── servo-bracket-fitting-03.jpg
+│   │   │   ├── servo-bracket-fitting-04.jpg
+│   │   │   ├── servo-fitted-to-rifle-01.jpg
+│   │   │   ├── servo-fitted-to-rifle-02.jpg
+│   │   │   ├── servo-fitted-to-rifle-03.jpg
+│   │   │   ├── servo-fitted-to-rifle-04.jpg
+│   │   │   ├── servo-trigger-wiring-and-measuring-01.jpg
+│   │   │   ├── servo-trigger-wiring-and-measuring-02.jpg
+│   │   │   ├── servo-trigger-wiring-and-measuring-03.jpg
+│   │   │   ├── servo-trigger-wiring-and-measuring-04.jpg
+│   │   │   ├── servo-trigger-wiring-and-measuring-05.jpg
+│   │   │   ├── servo-trigger-wiring-and-measuring-06.jpg
+│   │   │   ├── servo-trigger-wiring-and-measuring-07.jpg
+│   │   │   ├── servo-trigger-wiring-and-measuring-08.jpg
+│   │   │   ├── servo-trigger-wiring-and-measuring-09.jpg
+│   │   │   ├── servo-trigger-wiring-and-measuring-10.jpg
+│   │   │   ├── servo-trigger-wiring-and-measuring-11.jpg
+│   │   │   ├── servo-trigger-wiring-and-measuring-12.jpg
+│   │   │   ├── servo-trigger-wiring-and-measuring-13.jpg
+│   │   │   ├── shaft-bearing-and-coupler-parts-01.jpg
+│   │   │   ├── shaft-bearing-and-coupler-parts-02.jpg
+│   │   │   └── shaft-bearing-and-coupler-parts-03.jpg
+│   │   ├── controller-and-software
+│   │   │   ├── raspberry-pi-desktop-screenshot-01.png
+│   │   │   ├── remote-controller-closeup-01.jpg
+│   │   │   ├── remote-controller-closeup-02.jpg
+│   │   │   ├── remote-controller-closeup-03.jpg
+│   │   │   ├── remote-controller-front-buttons-01.jpeg
+│   │   │   ├── remote-controller-u-shape-01.jpg
+│   │   │   └── run-code-steps-notes-01.jpeg
+│   │   ├── exhibition
+│   │   │   ├── info-board-photo-01.jpg
+│   │   │   ├── info-board-photo-02.jpg
+│   │   │   ├── info-board-photo-03.jpg
+│   │   │   └── info-board-photo-04.jpg
+│   │   ├── field-trials
+│   │   │   ├── mast-antenna-test-01.jpg
+│   │   │   ├── mast-antenna-test-02.jpg
+│   │   │   ├── shortlisted-turret-field-photo-01.jpg
+│   │   │   ├── shortlisted-turret-field-photo-02.jpg
+│   │   │   ├── shortlisted-turret-field-photo-03.jpg
+│   │   │   ├── strike-gen1-field-2026-07-01.jpg
+│   │   │   ├── strike-gen1-field-2026-07-02.jpg
+│   │   │   ├── strike-gen1-field-2026-07-03.jpg
+│   │   │   ├── strike-gen1-field-2026-07-04.jpg
+│   │   │   ├── strike-gen1-field-2026-07-05.jpg
+│   │   │   ├── strike-gen1-field-2026-07-06.jpg
+│   │   │   ├── strike-gen1-field-2026-07-07.jpg
+│   │   │   ├── strike-gen1-field-2026-07-08.jpg
+│   │   │   ├── strike-gen1-field-2026-07-09.jpg
+│   │   │   ├── strike-gen1-field-2026-07-10.jpg
+│   │   │   ├── strike-gen1-field-2026-07-11.jpg
+│   │   │   ├── strike-gen1-field-2026-07-12.jpg
+│   │   │   ├── strike-gen1-field-2026-07-13.jpg
+│   │   │   ├── strike-gen1-field-2026-07-14.jpg
+│   │   │   ├── strike-gen1-field-2026-07-15.jpg
+│   │   │   ├── strike-gen1-field-2026-07-16.jpg
+│   │   │   ├── strike-gen1-field-2026-07-17.jpg
+│   │   │   ├── strike-gen1-field-2026-07-18.jpg
+│   │   │   ├── strike-gen1-field-2026-07-19.jpg
+│   │   │   ├── strike-gen1-field-2026-07-20.jpg
+│   │   │   ├── strike-gen1-field-2026-07-21.jpg
+│   │   │   ├── strike-gen1-field-2026-07-22.jpg
+│   │   │   ├── strike-gen1-field-2026-07-23.jpg
+│   │   │   ├── strike-gen1-field-2026-07-24.jpg
+│   │   │   ├── strike-gen1-field-2026-07-25.jpg
+│   │   │   ├── strike-gen1-field-2026-07-26.jpg
+│   │   │   ├── strike-gen1-field-2026-07-27.jpg
+│   │   │   ├── strike-gen1-field-2026-07-28.jpg
+│   │   │   ├── strike-gen1-field-2026-09-01.jpg
+│   │   │   ├── strike-gen1-field-2026-09-02.jpg
+│   │   │   ├── strike-gen1-field-trial-01.jpeg
+│   │   │   ├── strike-gen1-fixed-base-installation-01.jpeg
+│   │   │   ├── strike-gen1-truck-mounted-2026-10-01.jpg
+│   │   │   ├── strike-gen1-truck-mounted-2026-10-02.jpg
+│   │   │   ├── strike-gen1-truck-mounted-2026-10-03.jpg
+│   │   │   ├── strike-gen1-truck-mounted-2026-10-04.jpg
+│   │   │   ├── strike-gen1-truck-mounted-2026-10-05.jpg
+│   │   │   ├── strike-gen1-truck-mounted-2026-10-06.jpg
+│   │   │   ├── strike-gen1-truck-mounted-2026-10-07.jpg
+│   │   │   ├── strike-gen1-truck-mounted-2026-10-08.jpg
+│   │   │   ├── strike-gen1-turret-closeup-01.jpeg
+│   │   │   ├── strike-gen1-turret-closeup-02.jpeg
+│   │   │   ├── strike-gen1-turret-closeup-03.jpeg
+│   │   │   ├── strike-gen1-turret-closeup-04.jpeg
+│   │   │   ├── strike-gen1-turret-closeup-05.jpeg
+│   │   │   ├── truck-mounted-demo-with-people-01.jpg
+│   │   │   ├── truck-mounted-demo-with-people-02.jpg
+│   │   │   ├── truck-mounted-demo-with-people-03.jpg
+│   │   │   ├── truck-mounted-demo-with-people-04.jpg
+│   │   │   ├── truck-mounted-demo-with-people-05.jpg
+│   │   │   ├── truck-mounted-demo-with-people-06.jpg
+│   │   │   ├── truck-mounted-turret-with-laptop-01.jpg
+│   │   │   ├── truck-mounted-turret-with-laptop-02.jpg
+│   │   │   ├── truck-mounted-turret-with-laptop-03.jpg
+│   │   │   ├── truck-mounted-turret-with-laptop-04.jpg
+│   │   │   ├── turret-barrels-sky-view-01.jpg
+│   │   │   ├── turret-barrels-sky-view-02.jpg
+│   │   │   └── turret-barrels-sky-view-03.jpg
+│   │   └── renders
+│   │       ├── ai-render-strike-truck-dusk-01.png
+│   │       ├── ai-render-strike-turret-01.png
+│   │       ├── ai-render-strike-turret-02.png
+│   │       ├── ai-render-strike-turret-03.png
+│   │       ├── ai-render-strike-turret-cutout-01.png
+│   │       ├── ai-render-strike-turret-cutout-02.png
+│   │       ├── ai-render-turret-desert-concept-01.webp
+│   │       ├── strike-gen1-exploded-assembly-diagram-01.jpg
+│   │       ├── strike-gen1-exploded-assembly-diagram-02.jpg
+│   │       ├── strike-gen2-concept-render-01.png
+│   │       ├── strike-gen2-m-lmg-concept-render-01.png
+│   │       ├── strike-gen2-radar-concept-render-01.png
+│   │       ├── strike-m-lmg-concept-render-01.png
+│   │       ├── strike-m-rover-brochure-graphic-01.jpg
+│   │       └── strike-prototype-turret-white-bg-01.png
+│   ├── models-3d
+│   │   ├── next-gen-design-1
+│   │   │   ├── obj.mtl
+│   │   │   └── tinker.obj
+│   │   └── next-gen-design-2
+│   │       ├── objPart2.mlt
+│   │       └── tinkerPart2.obj
+│   ├── videos
+│   │   ├── aerial-drone-shots
+│   │   │   ├── dji-aerial-field-trial-01.mp4
+│   │   │   ├── dji-aerial-field-trial-02.mp4
+│   │   │   ├── dji-aerial-field-trial-03.mp4
+│   │   │   └── dji-aerial-field-trial-04.mp4
+│   │   ├── ai-tracking-screens
+│   │   │   ├── operator-screen-ai-tracking-01.mp4
+│   │   │   ├── operator-screen-ai-tracking-02.mp4
+│   │   │   ├── operator-screen-ai-tracking-03.mp4
+│   │   │   ├── operator-screen-ai-tracking-04.mp4
+│   │   │   ├── operator-screen-ai-tracking-05.mp4
+│   │   │   ├── operator-screen-ai-tracking-06.mp4
+│   │   │   ├── operator-screen-ai-tracking-07.mp4
+│   │   │   ├── operator-screen-ai-tracking-08.mp4
+│   │   │   ├── operator-screen-ai-tracking-09.mp4
+│   │   │   ├── operator-screen-ai-tracking-10.mp4
+│   │   │   └── operator-screen-capture-01.webm
+│   │   ├── automation-demos
+│   │   │   ├── rpi-camera-auto-tracking-footage-01.webm
+│   │   │   ├── truck-automation-01.mp4
+│   │   │   └── truck-rifle-mounting-automation-01.mp4
+│   │   ├── build-process
+│   │   │   ├── metal-frame-fabrication-01.mp4
+│   │   │   ├── metal-frame-fabrication-02.mp4
+│   │   │   ├── motor-and-frame-fabrication-01.mp4
+│   │   │   ├── motor-and-frame-fabrication-02.mp4
+│   │   │   ├── motor-and-frame-fabrication-03.mp4
+│   │   │   ├── motor-and-frame-fabrication-04.mp4
+│   │   │   ├── motor-and-frame-fabrication-05.mp4
+│   │   │   ├── motor-and-frame-fabrication-06.mp4
+│   │   │   ├── motor-and-frame-fabrication-07.mp4
+│   │   │   ├── rifle-servo-mount-fitting-01.mp4
+│   │   │   ├── rifle-servo-mount-fitting-02.mp4
+│   │   │   ├── rifle-servo-mount-fitting-03.mp4
+│   │   │   ├── rifle-servo-mount-fitting-04.mp4
+│   │   │   ├── rifle-servo-mount-fitting-05.mp4
+│   │   │   ├── rifle-servo-mount-fitting-06.mp4
+│   │   │   ├── rifle-servo-mount-fitting-07.mp4
+│   │   │   ├── rifle-servo-mount-fitting-08.mp4
+│   │   │   ├── servo-trigger-assembly-hands-on-01.mp4
+│   │   │   ├── servo-trigger-assembly-hands-on-02.mp4
+│   │   │   ├── servo-trigger-assembly-hands-on-03.mp4
+│   │   │   ├── servo-trigger-assembly-hands-on-04.mp4
+│   │   │   ├── servo-trigger-assembly-hands-on-05.mp4
+│   │   │   ├── servo-trigger-assembly-hands-on-06.mp4
+│   │   │   ├── shaft-bearing-and-coupler-parts-01.mp4
+│   │   │   ├── shaft-bearing-and-coupler-parts-02.mp4
+│   │   │   ├── shaft-bearing-and-coupler-parts-03.mp4
+│   │   │   └── shaft-bearing-and-coupler-parts-04.mp4
+│   │   ├── field-trials
+│   │   │   ├── autonomous-operation-01.mp4
+│   │   │   ├── firing-test-01.mp4
+│   │   │   ├── on-field-tested-01.mp4
+│   │   │   ├── product-reveal-camo-turret-01.mp4
+│   │   │   ├── shortlisted-turret-field-test-01.mp4
+│   │   │   ├── shortlisted-turret-field-test-02.mp4
+│   │   │   ├── shortlisted-turret-field-test-03.mp4
+│   │   │   ├── strike-gen1-field-2026-06-01.mp4
+│   │   │   ├── strike-gen1-field-2026-06-02.mp4
+│   │   │   ├── strike-gen1-field-2026-06-03.mp4
+│   │   │   ├── strike-gen1-field-2026-07-01.mp4
+│   │   │   ├── strike-gen1-field-2026-07-02.mp4
+│   │   │   ├── strike-gen1-field-2026-07-03.mp4
+│   │   │   ├── strike-gen1-field-2026-07-04.mp4
+│   │   │   ├── strike-gen1-field-2026-07-05.mp4
+│   │   │   ├── strike-gen1-field-2026-07-06.mp4
+│   │   │   ├── strike-gen1-field-2026-07-07.mp4
+│   │   │   ├── strike-gen1-field-2026-07-08.mp4
+│   │   │   ├── strike-gen1-field-2026-09-01.mp4
+│   │   │   ├── strike-gen1-field-2026-09-02.mp4
+│   │   │   ├── strike-gen1-field-2026-09-03.mp4
+│   │   │   ├── strike-gen1-field-2026-09-04.mp4
+│   │   │   ├── strike-gen1-field-2026-09-05.mp4
+│   │   │   ├── strike-gen1-field-2026-09-06.mp4
+│   │   │   ├── strike-gen1-truck-mounted-2026-10-01.mp4
+│   │   │   ├── strike-gen1-truck-mounted-2026-10-02.mp4
+│   │   │   ├── strike-gen1-truck-mounted-2026-10-03.mp4
+│   │   │   ├── strike-gen1-truck-mounted-2026-10-04.mp4
+│   │   │   ├── strike-gen1-truck-mounted-2026-10-05.mp4
+│   │   │   ├── strike-gen1-truck-mounted-2026-10-06.mp4
+│   │   │   ├── strike-gen1-truck-mounted-2026-10-07.mp4
+│   │   │   ├── strike-gen1-truck-mounted-2026-10-08.mp4
+│   │   │   ├── strike-gen1-truck-mounted-2026-10-09.mp4
+│   │   │   ├── strike-gen1-truck-mounted-2026-10-10.mp4
+│   │   │   ├── strike-trial-footage-compilation-01.mp4
+│   │   │   ├── turret-on-mast-evening-01.mp4
+│   │   │   ├── turret-on-mast-test-01.mp4
+│   │   │   ├── turret-on-mast-test-02.mp4
+│   │   │   ├── turret-yard-test-01.mp4
+│   │   │   ├── turret-yard-test-02.mp4
+│   │   │   ├── vehicle-structure-closeup-01.mp4
+│   │   │   └── vehicle-structure-closeup-02.mp4
+│   │   └── strike-m
+│   │       ├── strike-m-test-trial-01.mp4
+│   │       └── strike-m-test-trial-02.mp4
+│   └── web
+│       ├── aerial-field-trial-loop-poster.jpg
+│       ├── aerial-field-trial-loop.mp4
+│       ├── aerial-truck-field-trial-angle.jpg
+│       ├── aerial-truck-field-trial-wide.jpg
+│       ├── hero-aerial-truck-mounted-strike-gen1.jpg
+│       ├── remote-controller-closeup.jpg
+│       ├── strike-gen1-exploded-assembly.jpg
+│       ├── strike-gen1-fixed-base-installation.jpg
+│       ├── strike-gen1-truck-mounted-side.jpg
+│       ├── strike-gen1-turret-field-view.jpg
+│       ├── strike-gen1-turret-landscape.jpg
+│       └── truck-mounted-demo-with-team.jpg
+├── clients.html
+├── contact.html
+├── css
+│   └── site.css
+├── deployments.html
+├── faq.html
+├── index.html
+├── js
+│   ├── hero.js
+│   └── site.js
+├── legacy
+│   ├── assets-index-empty.html
+│   └── index-v1.html
+├── product.html
+├── solutions.html
+├── technology.html
+└── tools
+    ├── build_site.py
+    └── organize_assets.py
