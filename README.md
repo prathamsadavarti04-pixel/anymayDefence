@@ -1,39 +1,53 @@
-# Anmay Defence — website and source-media review
+# Anmay Defence — product-led static website
 
-This repository contains the Anmay Defence multipage site, product/engineering references, renamed media, and ten serial MOV clips showing the owner-provided reference website.
+This is a framework-free, multi-route website for **Anmay Defence**, identified in the supplied catalogues as a brand of **Anmay Autonomous Systems Pvt. Ltd.** The visual direction follows the supplied inspiration clips: warm ivory/pale-blush surfaces, charcoal/black cinematic chapters, amber/orange calls to action, generous whitespace, product imagery, compact metadata and long-form scroll transitions. The original radar/tracking identity remains in the hero, paired with product trial footage.
 
-## Website
+## Routes
 
-Framework-free static site, with no build step. Routes: Home; Products; About; Technology; Solutions; Clients; Projects; FAQ; Contact.
+- `/` — Home, radar/tracking hero, sticky four-stage story, generation cards, mission-package interaction and separately marked roadmap.
+- `/products/` — Interactive STRIKE Gen 1 / Gen 2 selector, specification grid, side-by-side comparison, mission packages, STRIKE M and PRAHAR NETRA.
+- `/technology/` — Sensing, tracking, edge processing, operator workflow and configured response architecture.
+- `/solutions/` — Site, platform, infrastructure and evaluation contexts.
+- `/about/` — Company and engineering story.
+- `/clients/` — Intended sectors and partner workflow.
+- `/projects/` — Engineering/evaluation context without unapproved customer deployment claims.
+- `/faq/` — Source-based product and deployment questions.
+- `/contact/` — Briefing-request draft builder; copy, download or open a prefilled email draft.
 
-The Home page combines a radar tracking simulation with a real product trial-footage window, a sticky step-by-step system story, generation cards, a mission-package selector and a separately marked roadmap. The Products page has Gen 1 / Gen 2 selectors, a side-by-side interactive comparison table, mission-package detail and related STRIKE M / PRAHAR NETRA panels.
+No build step is required. Shared presentation and interactions are in `site.css`, `site-effects.css` and `site.js`. The hero uses a Canvas radar simulation and source trial-footage window; reduced-motion preferences are respected and the video pauses when out of view.
 
-Shared behavior and design live in site.js and site.css, with supporting effects in site-effects.css. The visual direction uses near-black technical stages, blue scan accents, Inter Tight / Inter / JetBrains Mono, sticky scroll storytelling, scroll reveals and reduced-motion fallbacks.
+## Source files and inspiration-video audit
 
-## Source library audit
+The `inspiration_video/` folder holds the ten original MOV clips in their supplied serial order. Source Office documents include:
+- `ANMAY_Drone_Defence_Video_Script.docx`
+- `STRIKE_Video_Creation_Storyboard_Anmay_Defence.docx`
+- `New Video Script.docx`
+- `STRIKE Product Catalogue Gen1 and 2.pptx`
+- `PRAHAR NETRA Product Catalogue.pptx`
+- `Changes .pptx` in the shortlisted-media folder
 
-The inspiration_video folder holds the original ten MOV segments in their original sequence. Source Office files include three narrative/storyboard DOCX documents and the large STRIKE Gen 1/Gen 2 and PRAHAR NETRA product catalogues plus the shortlisted-media/change deck.
+The workflow **Audit source documents and inspiration videos** uses sparse checkout to fetch those files, extracts DOCX paragraphs/tables and PPTX slide text/tables/notes, samples clips at 2 frames per second with FFmpeg, creates timestamp-labelled contact sheets and estimates an approximate sampled palette. It uploads an audit artifact and commits the generated files under `source-review/`.
 
-The workflow “Audit source documents and inspiration videos” uses sparse checkout so it does not download unrelated repository media. It extracts paragraphs/tables from DOCX; slide text, tables and speaker notes from PPTX; samples reference clips at 2 frames per second using FFmpeg; creates timestamped contact sheets; and estimates an approximate palette from sampled frames.
+Run it from **GitHub → Actions → Audit source documents and inspiration videos → Run workflow**. The workflow is an analysis aid; contact sheets are not production artwork.
 
-Once the workflow is available in the Actions tab, use “Audit source documents and inspiration videos → Run workflow”. The output is uploaded as an artifact and the review files are committed under source-review/.
+## Asset cleanup and structure
 
-## Asset cleanup and documentation
+- `ASSET_MAP.md` contains all 223 old-to-new media path mappings.
+- `OLD_REPO_TREE.md` captures the source tree before cleanup.
+- `NEW_REPO_TREE.md` captures the implementation tree.
+- `REPO_SUMMARY.md` records company/product facts and source-based publication caveats.
 
-- ASSET_MAP.md contains all 223 old-to-new media path mappings.
-- OLD_REPO_TREE.md records the original tree.
-- NEW_REPO_TREE.md records the post-build tree.
-- REPO_SUMMARY.md captures company/product information extracted from readable sources and remaining validation items.
+Non-media Office documents and OBJ/MTL model files remain at their source paths. Inspiration clips keep their original filenames and order. Four video paths originally used Git LFS; their patterns are updated in `.gitattributes`.
 
-The four paths originally configured for Git LFS have updated rules in .gitattributes. For a local clone, install Git LFS first:
+```sh
+git lfs install
+git clone --branch feat/anmay-defence-multipage-site https://github.com/prathamsadavarti04-pixel/anymayDefence.git
+cd anymayDefence
+git lfs pull
+```
 
-    git lfs install
-    git clone --branch feat/anmay-defence-multipage-site https://github.com/prathamsadavarti04-pixel/anymayDefence.git
-    cd anymayDefence
-    git lfs pull
+## Publication guardrails
 
-## Publication checks
+Numeric figures on the product page are reference values transcribed from the supplied catalogues/storyboards—not independent test results. Confirm exact product revision, conditions and compatible modules against the current approved specification before procurement or acceptance decisions. Future swarm/network/EMP/directed-energy concepts are separated from current capabilities. Public pricing is intentionally omitted until approved by a commercial owner.
 
-The product comparison reflects Gen 1 / Gen 2 descriptions and reference figures found in the supplied narrative materials. Numeric values must be checked against the current approved product specification and test conditions before procurement use. Future swarm/network/directed-energy concepts are separated from current platform descriptions. Client names and legal-registration details are not inferred from media filenames.
-
-The contact form generates a text draft locally; it does not submit data. Connect an approved secure endpoint and verified contact channel before online lead capture.
+The product catalogue lists `ANMAYDEFENCE@GMAIL.COM`, `+91 8828959943` and Mumbai, India. Confirm these are current before use. The Contact form only prepares a local draft; the email action opens the user's mail client and does not transmit form data to a website server.
